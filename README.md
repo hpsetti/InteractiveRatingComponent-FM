@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [InteractiveRatingComponent-Vue solution](https://github.com/hpsetti/InteractiveRatingComponent-FM)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [InteractiveRatingComponent-Vue live](https://hpsetti.github.io/InteractiveRatingComponent-FM/)
 
 ## My process
 
@@ -46,8 +46,8 @@ Users should be able to:
 ## Author
 
 - Website - [Harish](https://github.com/hpsetti)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/hpsetti)
-- Twitter - [@yourusername](https://www.twitter.com/hpsetti)
+- Frontend Mentor - [@hpsetti](https://www.frontendmentor.io/profile/hpsetti)
+- Twitter - [@hpsetti](https://www.twitter.com/hpsetti)
 
 ## Acknowledgments
 
