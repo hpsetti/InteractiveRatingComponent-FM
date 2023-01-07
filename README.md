@@ -9,10 +9,9 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Continued development](#continued-development)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -40,7 +39,9 @@ Users should be able to:
 - CSS Grid
 - [Vue](https://vuejs.org/) - JS library
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+### Continued development
+
+- Will try to recreate the above improvement in ReactJS.
 
 ## Author
 
@@ -48,13 +49,9 @@ Users should be able to:
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/hpsetti)
 - Twitter - [@yourusername](https://www.twitter.com/hpsetti)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 
 Frontend Mentor! :)
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
 
 # interactive-rating
 
